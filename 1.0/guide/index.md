@@ -2,16 +2,14 @@
 ## PhotoSwipe
 
 - [source](https://github.com/jayli/photoswipe)
-- by 拔赤
-- [Demo](http://mobile.kissyui.com/direct.php?type=demo&name=photoswipe)
 
-基本场景：用于图集展示的相册控件
+用于触屏设备中图集展示的相册控件，也可以用于PC。
 
 ![](http://img04.taobaocdn.com/tps/i4/T1mSm1XzBdXXaE3eMM-440-660.jpg)
 
 ### 使用
 
-	KISSY.use('mobile/photoswipe/1.0/',function(S,Photoswipe){
+	KISSY.use('gallery/photoswipe/1.0/',function(S,Photoswipe){
 		// 初始化
 		var photoswipe = new Photoswipe();
 		// 填充数据

@@ -583,7 +583,7 @@ KISSY.add(function (S,Slide,Mask,Juicer) {
 }, {
 	requires: [
 		'gallery/slide/1.1/',
-		'mobile/simple-mask/1.0/',
+		'gallery/simple-mask/1.0/',
 		'gallery/juicer/1.3/',
 		'base',
 		'node'

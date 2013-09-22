@@ -1,3 +1,3 @@
 config({
-    'gallery/photoswipe/index': {requires: ['node','base']}
+    'gallery/photoswipe/1.0/index': {requires: ['node','base']}
 });
