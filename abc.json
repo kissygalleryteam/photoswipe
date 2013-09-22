@@ -1,8 +1,9 @@
 {
     "name": "photoswipe",
     "version": "1.0",
-    "desc": "请修改组件描述",
+    "desc": "Mobile终端里的大图滚动预览组件",
     "cover": "",
+	"tag":"mobile",
     "author": {
         "name": "bachi",
         "email": "bachi@taobao.com",
